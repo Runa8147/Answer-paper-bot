@@ -1,6 +1,6 @@
-streamlit>=1.25.0
-Pillow>=10.0.0  # Use the latest Pillow version compatible with Python 3.12
-pandas>=1.5.0
-google-generativeai>=0.2.0
-plotly>=5.0.0
-numpy>=1.24.0
+streamlit
+Pillow
+pandas
+google-generativeai
+plotly
+numpy
